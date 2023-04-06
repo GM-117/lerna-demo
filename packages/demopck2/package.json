@@ -17,6 +17,8 @@
     "test": "node ./__tests__/demopck2.test.js"
   },
   "publishConfig": {
-    "access": "public"
-  }
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "gitHead": "7cc2e8d982bb30555212a7177206b558961fe008"
 }
