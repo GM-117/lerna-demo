@@ -1,7 +1,7 @@
 'use strict';
 
-module.exports = demopck;
+module.exports = customDemo;
 
-function demopck() {
-  return 'Hello from demopck';
+function customDemo() {
+  return 'Hello from customDemo';
 }
