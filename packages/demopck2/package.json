@@ -1,10 +1,11 @@
 {
   "name": "@custom/demopck2",
   "version": "0.0.6",
+  "private": "false",
   "description": "> TODO: description",
   "author": "Monze.gao <972983546@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/demopck2.js",
   "directories": {
     "lib": "lib",
@@ -20,5 +21,5 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "e9987720dea18e56a42a60ae6b99a2cbc6f96ff3"
+  "gitHead": "718949b23be2276ee6efcb1475fe465d790ad4b8"
 }
