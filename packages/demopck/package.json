@@ -1,0 +1,19 @@
+{
+  "name": "@custom/demopck",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Monze.gao <972983546@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/demopck.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/demopck.test.js"
+  }
+}
