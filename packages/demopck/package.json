@@ -1,5 +1,5 @@
 {
-  "name": "@custom/demopck",
+  "name": "@monze/demopck",
   "version": "0.0.10",
   "private": false,
   "description": "> TODO: description",
@@ -21,5 +21,5 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "05f71fa7d83014c6595e1be3509eebe1f13757dc"
+  "gitHead": "6cab8d7a1d344fbc3b9e1b3aa4c1f3690e0fb4c8"
 }
