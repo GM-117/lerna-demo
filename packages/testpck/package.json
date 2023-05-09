@@ -1,0 +1,30 @@
+{
+  "name": "testpck",
+  "version": "0.0.11",
+  "private": true,
+  "description": "> TODO: description",
+  "author": "Monze.gao <972983546@qq.com>",
+  "homepage": "https://github.com/GM-117/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/testpck.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GM-117/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/testpck.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/GM-117/lerna-demo/issues"
+  },
+  "dependencies": {
+    "@monze/demopck": "^0.0.11"
+  }
+}
