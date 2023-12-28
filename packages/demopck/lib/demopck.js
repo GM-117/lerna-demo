@@ -3,5 +3,5 @@
 module.exports = customDemo;
 
 function customDemo() {
-  return 'Hello from customDemo';
+  return 'Hello from customDemo TEST!';
 }
