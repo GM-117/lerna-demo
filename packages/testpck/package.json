@@ -1,6 +1,6 @@
 {
   "name": "testpck",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "private": true,
   "description": "> TODO: description",
   "author": "Monze.gao <972983546@qq.com>",
@@ -25,6 +25,6 @@
     "url": "https://github.com/GM-117/lerna-demo/issues"
   },
   "dependencies": {
-    "@monze/demopck": "^0.0.12"
+    "@monze/demopck": "^0.0.13"
   }
 }
